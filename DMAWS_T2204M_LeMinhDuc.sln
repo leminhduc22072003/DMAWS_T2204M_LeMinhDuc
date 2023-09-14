@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAWS_T2204M_TranHung", "DMAWS_T2204M_TranHung\DMAWS_T2204M_TranHung.csproj", "{CAC2CC3E-1E58-40FE-AC3E-85A9A7DA735F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMAWS_T2204M_LeMinhDuc", "DMAWS_T2204M_TranHung\DMAWS_T2204M_LeMinhDuc.csproj", "{CAC2CC3E-1E58-40FE-AC3E-85A9A7DA735F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
